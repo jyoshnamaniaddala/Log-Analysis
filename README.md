@@ -80,6 +80,19 @@ create view error_percent_calculating as
                percentage_error desc;
 ```
 ### OUTPUT ###
+connection established successfully
+The most popular three articles
+1.Candidate is jerk, alleges rival-338647 views
+2.Bears love berries, alleges bear-253801 views
+3.Bad things gone, say good people-170098 views
+
+The most popular article authors
+1.Ursula La Multa-507594 views
+2.Rudolf von Treppenwitz-423457 views
+3.Anonymous Contributor-170098 views
+
+The days on which more than 1% of requests leads to errors
+2016-07-17---->2.26269% errors
 
 
 
