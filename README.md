@@ -1,6 +1,6 @@
 ## Udacity Full Stack Web Developer Nanodegree-Logs Analysis Project ##
 ### PROJECT OVERVIEW ###
-This is log analysis project  which requires students to find results from a large database of a news website using SQL quries.In this project views are created to analyse the results so that the original datbase need not to be disturbed,thus by using views we can find the result our quries.The primary objective of log analysis project is to extend the student's SQL database skills.
+This is log analysis project  which requires students to find results from a large database of a news website using SQL quries.In this project views are created to analyse the results so that the original database need not to be disturbed,thus by using views we can find the result our quries.The primary objective of log analysis project is to extend the student's SQL database skills.
 
 The database includes three tables:
 * The **authors** table includes information about the authors of articles.
