@@ -80,6 +80,7 @@ create view error_percent_calculating as
                percentage_error desc;
 ```
 ### OUTPUT ###
+```
 connection established successfully
 The most popular three articles
 1.Candidate is jerk, alleges rival-338647 views
@@ -93,6 +94,6 @@ The most popular article authors
 
 The days on which more than 1% of requests leads to errors
 2016-07-17---->2.26269% errors
-
+```
 
 
