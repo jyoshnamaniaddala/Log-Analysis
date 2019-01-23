@@ -32,7 +32,7 @@ The python script is written to write quries and generate a report for the follw
 
 7.Load the database using psql -d news -f newsdata.sql.
 
-8.run the python file `samplefie.py`
+8.run the python file `project.py`
 
 #### Functions in samplefile.py: ####
 * **connect_database():** Connects to the PostgreSQL database and returns a database connection.
