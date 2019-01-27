@@ -96,4 +96,3 @@ The days on which more than 1% of requests leads to errors
 2016-07-17---->2.26269% errors
 ```
 
-
