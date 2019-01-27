@@ -34,6 +34,8 @@ The python script is written to write quries and generate a report for the follw
 
 8.run the python file `project.py`
 
+9.Now you can view the output.
+
 #### Functions in samplefile.py: ####
 * **connect_database():** Connects to the PostgreSQL database and returns a database connection.
 * **view_for_popular_articles():** Function to Create view to find popular articles 
